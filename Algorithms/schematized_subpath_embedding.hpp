@@ -3,9 +3,9 @@
 
 #include <vector>
 
-class SubPath;
+struct SubPath;
 class SchematizedPlane;
-class SymbolicCoordinate;
+struct SymbolicCoordinate;
 
 /**
  * This class joins schematized subpaths to one big schematized path.
