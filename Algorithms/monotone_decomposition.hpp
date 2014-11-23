@@ -3,8 +3,8 @@
 
 #include "../Util/MercatorUtil.h"
 
-class SymbolicCoordinate;
-class SubPath;
+struct SymbolicCoordinate;
+struct SubPath;
 
 #include <boost/assert.hpp>
 #include <boost/range/irange.hpp>
