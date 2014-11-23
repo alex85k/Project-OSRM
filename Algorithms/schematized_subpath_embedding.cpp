@@ -1,9 +1,5 @@
 #include "schematized_subpath_embedding.hpp"
 
-#include "../DataStructures/SymbolicCoordinate.h"
-#include "../DataStructures/SchematizedPlane.h"
-#include "../DataStructures/SubPath.h"
-
 #include <osrm/Coordinate.h>
 
 #include <boost/assert.hpp>

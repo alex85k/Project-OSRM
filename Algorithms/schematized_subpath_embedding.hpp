@@ -3,9 +3,9 @@
 
 #include <vector>
 
-class SubPath;
-class SchematizedPlane;
-class SymbolicCoordinate;
+#include "../DataStructures/SymbolicCoordinate.h"
+#include "../DataStructures/SchematizedPlane.h"
+#include "../DataStructures/SubPath.h"
 
 /**
  * This class joins schematized subpaths to one big schematized path.
